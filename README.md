@@ -18,3 +18,5 @@ If you would like to run it on your own follw my directions:
 4) Next run `python chatgui.py` to open the GUI window.
 
 Hope you enjoy :)
+
+Just to set proper expectations, the chatbot is not as smart as ChatGPT or Google Bard.
